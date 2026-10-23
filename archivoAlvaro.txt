@@ -1,1 +1,2 @@
 Esto es una prueba de conflicto 2.
+Esto es una prueba de conflicto. Voy a generar un problema.
